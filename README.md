@@ -116,3 +116,4 @@ Just like LVGL, we are developing this tool for you. We want to add the features
 Please open an issue in this repository to share your feedback. Your input will help shape the development of LVGL's UI Editor! 
 
 Thank you! ❤️
+#
